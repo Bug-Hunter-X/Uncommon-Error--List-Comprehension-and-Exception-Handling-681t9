@@ -1,0 +1,1 @@
+This repository contains examples of uncommon errors in Python, along with their solutions. The specific error showcased in this example involves the handling of potential KeyError and TypeError exceptions within a list comprehension. The bug.py file demonstrates the error, while the bugSolution.py file offers a solution that demonstrates robust exception handling.
